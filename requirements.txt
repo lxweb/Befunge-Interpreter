@@ -1,0 +1,7 @@
+# Dependencias de desarrollo
+pytest>=6.0.0
+pytest-cov>=2.8.0
+black>=21.5b1
+isort>=5.8.0
+flake8>=3.9.0
+mypy>=0.812
